@@ -1,0 +1,54 @@
+-IAC:
+Infraestructura como código
+-Cache Web: 
+Almacenamiento temporal de recursos web para mejorar la velocidad de carga y reducir el tráfico en la red.
+-CDN (Content Delivery Network): 
+Red de servidores distribuidos geográficamente que almacenan copias de recursos web para acelerar su entrega.
+-Ancho de Banda: 
+Capacidad máxima de transmisión de datos de una red durante un período de tiempo, medida en bits por segundo.
+-Servidor Web:
+Computadora o software que aloja páginas web y las entrega a los usuarios cuando las solicitan a través del navegador.
+-Cliente Web:
+Dispositivo o aplicación (como un navegador) que solicita recursos al servidor.
+-NoSQL: 
+Tipo de base de datos que no sigue el modelo relacional tradicional, útil para grandes volúmenes de datos no estructurados.
+tareas como reconocimiento de voz o imágenes.
+-Algoritmo: 
+Conjunto de instrucciones para resolver un problema o realizar una tarea.
+-Chatbot: 
+Programa que simula una conversación humana, usado en atención al cliente y asistentes virtuales.
+-Procesamiento del lenguaje natural (PLN): 
+Tecnología que permite a las computadoras comprender y generar lenguaje humano.
+-Base de datos relacional: 
+Sistema que organiza la información en tablas relacionadas entre sí por claves.
+-SQL (Structured Query Language): 
+Lenguaje para gestionar y consultar bases de datos relacionales.
+-Scrum: 
+Marco ágil que divide proyectos en ciclos cortos llamados sprints para facilitar entregas continuas.
+-Sprint: 
+Periodo de tiempo (normalmente 1–4 semanas) donde se desarrolla una parte funcional del producto.
+-Kanban: 
+Método visual de gestión del trabajo que utiliza tarjetas para representar tareas y su estado.
+-Product Owner: 
+Persona responsable de maximizar el valor del producto y gestionar el backlog.
+-Daily Stand-up:
+Reunión diaria y breve donde el equipo comenta avances, obstáculos y planes.
+-OCR (Reconocimiento Óptico de Caracteres): 
+Tecnología que convierte texto impreso o manuscrito en datos digitales legibles.
+-Workflow: 
+Flujo de trabajo que define una secuencia de tareas automatizadas o manuales.
+-Networking: 
+Construcción de relaciones profesionales estratégicas.
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+E:\programacion\Memoria (5 mayo)\Ejercicio8\bin\Debug\net8.0\Ejercicio8.exe
+E:\programacion\Memoria (5 mayo)\Ejercicio8\bin\Debug\net8.0\Ejercicio8.deps.json
+E:\programacion\Memoria (5 mayo)\Ejercicio8\bin\Debug\net8.0\Ejercicio8.runtimeconfig.json
+E:\programacion\Memoria (5 mayo)\Ejercicio8\bin\Debug\net8.0\Ejercicio8.dll
+E:\programacion\Memoria (5 mayo)\Ejercicio8\bin\Debug\net8.0\Ejercicio8.pdb
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.AssemblyInfoInputs.cache
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.AssemblyInfo.cs
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.csproj.CoreCompileInputs.cache
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.dll
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\refint\Ejercicio8.dll
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.pdb
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\Ejercicio8.genruntimeconfig.cache
+E:\programacion\Memoria (5 mayo)\Ejercicio8\obj\Debug\net8.0\ref\Ejercicio8.dll
